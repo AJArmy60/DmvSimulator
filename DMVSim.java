@@ -23,11 +23,12 @@ public class DMVSim
         int chance = random.nextInt(100) + 1;
         if (chance == 1)
         {
-            System.out.println('You have the correct paperwork.');
+            System.out.println("You have the correct paperwork.");
         }
         else
         {
-            System.out.println("Your paper work is obviously wrong. If you were paying attention you would have noticed before wasting both of our time.");
+            System.out.println("Your paper work is obviously wrong. If you were paying attention you would have noticed before wasting both of our time. MWAHAHAHAHA!");
         }
+
     }
 }
