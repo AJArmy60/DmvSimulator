@@ -20,6 +20,6 @@ public class DMVSim
             System.out.println(count);
         }
        
-        System.out.println("You have the wrong paper work.");
+        System.out.println("Your paper work is obviously wrong. If you were paying attention you would have noticed before wasting both of our time.");
     }
 }
